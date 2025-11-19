@@ -7,13 +7,13 @@
 2. 激活环境 `conda activate d2l`
 3. 安装d2l `pip install d2l==0.17.6`
 4. 安装torch `pip install torch torchvision`
-    ```
-    pip install torch==1.12.0
-    pip install torchvision==0.13.0
-    ```
-6. 安装tensorflow `pip install tensorflow tensorflow-probability`
-    ```
-    pip install tensorflow==2.8.0
-    pip install tensorflow-probability==0.16.0
-    ```
-7. 安装d2l `pip install d2l`
+   ```
+   pip install torch==1.12.0
+   pip install torchvision==0.13.0
+   ```
+5. 安装tensorflow `pip install tensorflow tensorflow-probability`
+   ```
+   pip install tensorflow==2.8.0
+   pip install tensorflow-probability==0.16.0
+   ```
+6. 安装d2l `pip install d2l`
